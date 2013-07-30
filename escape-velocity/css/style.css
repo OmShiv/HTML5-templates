@@ -47,7 +47,7 @@
 	{
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: #57595C;
 	}
 
 	h1,h2,h3,h4,h5,h6
@@ -310,6 +310,11 @@
 	{
 		float: left;
 		margin: 0 2em 2em 0;
+	}
+	.image-right
+	{
+		float: right;
+		margin: 0 0 2em 2em;
 	}
 	
 	.image-centered
@@ -868,7 +873,7 @@
 
 	#header-wrapper
 	{
-		background: url('../images/banner.jpg') center center;
+		background: url('../resources/images/body-bg-top.jpg') center center;
 		background-size: cover;
 	}
 	

@@ -271,12 +271,12 @@
 		.wrapper .title
 		{
 			font-size: 0.9em;
-			width: 25em;
+			width: 700px;;
 			height: 3.25em;
 			top: -3.25em;
 			line-height: 3.25em;
 			margin-bottom: -3.25em;
-			margin-left: -12.5em;
+			margin-left: -350px;
 			padding-top: 0.5em;
 		}
 
@@ -383,8 +383,7 @@
 			#nav > ul > li > span
 			{
 				display: block;
-				color: #eee;
-				color: rgba(255,255,255,0.75);
+				color: #717479;
 				text-transform: uppercase;
 				text-decoration: none;
 				font-size: 0.7em;
@@ -403,13 +402,13 @@
 			#nav > ul > li.active > a,
 			#nav > ul > li.active > span
 			{
-				color: #fff;
+				color: #484d55;
 			}
 
 	.dropotron
 	{
-		background: #222835 url('images/overlay.png');
-		background-color: rgba(44,50,63,0.925);
+		background: #2e0600 url('images/overlay.png');
+		background-color: #2e0600;
 		padding: 1.25em 1em 1.25em 1em;
 		border-radius: 0.35em;
 		box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,0.25);
