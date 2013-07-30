@@ -319,7 +319,7 @@
 	{
 		position: absolute;
 		height: 5em;
-		top: 50%;
+		top: 35%;
 		left: 0;
 		width: 100%;
 		text-align: center;
@@ -333,7 +333,7 @@
 
 		#logo h1
 		{
-			font-size: 2em;
+			font-size: 3em;
 			letter-spacing: 0.25em;
 		}
 		
